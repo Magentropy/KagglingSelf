@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+.flaskenv
+# Database
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Flask instance
+instance/
+
+#file
+config.py
+logs/
+archive/
